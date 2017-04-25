@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Caregiver Geofence Sample</string>
+    <string name="service_get_url">
+            https://obscure-hollows-67633.herokuapp.com/gfdetailservice/rest/details
+    </string>
+    <string name="service_post_url">
+        https://obscure-hollows-67633.herokuapp.com/gfdetailservice/rest/gfDetail
+    </string>
+    <string name="submit_button">SUBMIT</string>
+    <!--<string name="radius_hint">Choose from 15 - 100</string>-->
+    <string name="radius_initial_val">50</string>
+    <string name="radius_label">Select a radius \n
+        for the geo-fence : </string>
+</resources>
